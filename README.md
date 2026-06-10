@@ -1,6 +1,6 @@
 # Hi there, I'm Vishnu 👋
 
-I am a **DevOps Engineer** with 2 years of enterprise experience in production system operations, specializing in cloud infrastructure automation and CI/CD pipeline engineering.
+**DevOps Engineer** | 2 Years Enterprise Experience | Systems Engineer at TCS
 
 ---
 
@@ -27,8 +27,3 @@ I am a **DevOps Engineer** with 2 years of enterprise experience in production s
 - Built and validated backend APIs with Node.js/Express, ensuring data persistence and service reliability across container restarts.
 
 ---
-
-### 📬 Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/vishnu-sadula](https://www.linkedin.com/in/vishnu-sadula/)
-- 📧 **Gmail:** [sadulavishnu@gmail.com](mailto:sadulavishnu@gmail.com)
