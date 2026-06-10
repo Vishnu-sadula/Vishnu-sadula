@@ -6,9 +6,9 @@
 
 ### 🛠️ Core Skills
 
-- **CI/CD:** Jenkins, GitHub Actions, AWS CodePipeline
 - **IaC & Automation:** Terraform (modular provisioning), Bash scripting, Python
 - **Cloud (AWS):** EC2, S3, ECR, VPC, IAM, CloudWatch, EKS
+- **CI/CD:** Jenkins, GitHub Actions
 - **Containers & Orchestration:** Docker (Dockerfile, Compose), Kubernetes (EKS, minikube)
 - **Version Control:** Git, GitHub (webhooks, branching strategies)
 - **Development & Tools:** Python (Flask), Bash, Linux, MongoDB, Node.js
@@ -27,3 +27,8 @@
 - Built and validated backend APIs with Node.js/Express, ensuring data persistence and service reliability across container restarts.
 
 ---
+
+### 📬 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/vishnu-sadula/)
+- 📧 **Gmail:** [sadulavishnu@gmail.com](mailto:sadulavishnu@gmail.com)
