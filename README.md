@@ -30,5 +30,5 @@
 
 ### 📬 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/vishnu-sadula/)
+- 💼 **LinkedIn:** [linkedin.com/in/vishnu-sadula](https://www.linkedin.com/in/vishnu-sadula/)
 - 📧 **Gmail:** [sadulavishnu@gmail.com](mailto:sadulavishnu@gmail.com)
