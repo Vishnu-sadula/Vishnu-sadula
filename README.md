@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Vishnu Vardhan Sadula 👋
+# Hi there, I'm Vishnu 👋
 
 I am a **DevOps Engineer** with 2 years of enterprise experience in production system operations, specializing in cloud infrastructure automation and CI/CD pipeline engineering.
 
