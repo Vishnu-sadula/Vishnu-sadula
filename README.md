@@ -6,12 +6,13 @@
 
 ### 🛠️ Core Skills
 
-- **IaC & Automation:** Terraform (modular provisioning), Bash scripting, Python
-- **Cloud (AWS):** EC2, S3, ECR, VPC, IAM, CloudWatch, EKS
+- **Cloud Technologies:** AWS
+- **Containers Technologies:** Docker, Kubernetes
+- **Scripting:** Shell and Python
+- **Version Control:** Git, GitHub
+- **Configuration Management:** Ansible
+- **Infrastructure as Code:** Terraform
 - **CI/CD:** Jenkins, GitHub Actions
-- **Containers & Orchestration:** Docker (Dockerfile, Compose), Kubernetes (EKS, minikube)
-- **Version Control:** Git, GitHub (webhooks, branching strategies)
-- **Development & Tools:** Python (Flask), Bash, Linux, MongoDB, Node.js
 
 ---
 
