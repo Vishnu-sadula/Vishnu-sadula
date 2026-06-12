@@ -8,7 +8,7 @@
 
 - **Cloud Technologies:** AWS
 - **Containers Technologies:** Docker, Kubernetes
-- **Scripting:** Shell and Python
+- **Operating Systems & Scripting:** Linux, Shell and Python
 - **Version Control:** Git, GitHub
 - **Configuration Management:** Ansible
 - **Infrastructure as Code:** Terraform
