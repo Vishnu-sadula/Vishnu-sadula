@@ -6,8 +6,8 @@
 
 ### 🛠️ Core Skills
 
-- **Cloud Technologies:** AWS (EC2, S3, VPC, IAM, RDS)
-- **Containers & Orchestration:** Docker, Kubernetes, Docker Compose
+- **Cloud Technologies:** AWS (EC2, S3, VPC, IAM)
+- **Containers & Orchestration:** Docker, Kubernetes
 - **Scripting & OS:** Ubuntu, Bash, Python
 - **Version Control:** Git, GitHub
 - **IaC & Configuration:** Terraform, Ansible
