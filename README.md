@@ -1,34 +1,35 @@
 # Hi there, I'm Vishnu 👋
 
-**DevOps Engineer** | 2 Years Enterprise Experience | Systems Engineer at TCS
+I like automating repetitive tasks, building reliable CI/CD pipelines, and working with cloud-native technologies. I like learning how systems work, troubleshooting deployment issues, and turning manual processes into simple, repeatable workflows.
 
 ---
 
 ### 🛠️ Core Skills
 
-- **Cloud Technologies:** AWS (EC2, S3, VPC, IAM)
-- **Containers & Orchestration:** Docker, Kubernetes
-- **Scripting & OS:** Ubuntu, Bash, Python
+- **CI/CD:** Jenkins, GitHub Actions, GitHub, Git branching, Pull Requests
+- **Containers & Orchestration:** Docker, Kubernetes, Amazon EKS
+- **AWS:** EC2, EKS, S3, IAM, CloudWatch
+- **Scripting & OS:** Python, Shell scripting & Linux, Ubuntu
+- **Monitoring & Logging:** Prometheus, Grafana, AWS CloudWatch
 - **Version Control:** Git, GitHub
-- **IaC & Configuration:** Terraform, Ansible
-- **CI/CD:** Jenkins, GitHub Actions
+- **IaC & Configuration:** Terraform
 
 ---
 
 ### 🚀 Technical Projects
 
 #### 🏗️ [AWS Infrastructure Automation with Terraform & Jenkins CI/CD](https://github.com/Vishnu-sadula/Victus.git)
-- Built reusable Terraform modules for multi-environment AWS provisioning (dev/staging), reducing manual environment setup from hours to under 15 minutes.
-- Engineered a Jenkins pipeline integrated with GitHub webhooks to automate build, test, and deployment on every code push — achieving zero-touch deployments.
+- Automated AWS infrastructure provisioning using reusable Terraform modules, variables, workspaces, remote state, and state locking across Development and Staging environments.
+- Built Jenkins CI/CD workflows with Terraform validation, pull request plan generation, infrastructure deployment, Docker image build, testing, and container registry push stages.
+- Implemented IAM and security validation checks in the pipeline to improve infrastructure governance and prevent risky or unauthorized changes.
 
 #### ☸️ [Containerized Microservices Deployment on Kubernetes](https://github.com/Vishnu-sadula/zenith.git)
-- Containerized a Python/Flask + MongoDB application using Docker Compose with custom Dockerfiles, managing multi-service dependencies and networking.
-- Deployed application to Minikube using Kubernetes YAML manifests, configuring Pod lifecycle management, service networking, and external access via Mongo-Express.
-- Built and validated backend APIs with Node.js/Express, ensuring data persistence and service reliability across container restarts.
+- Containerized a Python/Flask microservice and MongoDB using Docker, creating repeatable builds and consistent application environments.
+- Deployed the application to Kubernetes using Deployments, Services, ConfigMaps, health probes, rolling updates, and PersistentVolumeClaims.
+- Troubleshot pod failures, application startup issues, service connectivity, storage, and container configuration problems to maintain reliable deployments.
 
 ---
 
 ### 📬 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/vishnu-sadula](https://www.linkedin.com/in/vishnu-sadula/)
-- 📧 **Gmail:** [sadulavishnu@gmail.com](mailto:sadulavishnu@gmail.com)
